@@ -1,16 +1,17 @@
-### Hi there 👋
+## Eae, eu sou o Gabriel! ✌️
 
-<!--
-**GabrielF9/gabrielf9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor frontend web e mobile, trabalhando com as seguintes tecnologias:
 
-Here are some ideas to get you started:
+ ➡️ JavaScript
+ ➡️ ReactJS
+ ➡️ Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Na busca de ser um cientista de dados 📚
+
+Jogando sempre que possível 🎮
+
+### Manda um oi:
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabrielf_dev)](https://twitter.com/gabrielf_dev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielf-dev/)](https://www.linkedin.com/in/gabrielf-dev/)
