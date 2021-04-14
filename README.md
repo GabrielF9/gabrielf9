@@ -8,7 +8,7 @@ Sou desenvolvedor frontend web e mobile, trabalhando com as seguintes tecnologia
 
 ---
 
-Na busca de ser um cientista de dados 📚
+Na busca de ser um baita dum frontend 📚
 
 Jogando sempre que possível 🎮
 
